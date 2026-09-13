@@ -1,0 +1,1 @@
+Questo progetto utilizza Apache Lucene per l'indicizzazione del testo.

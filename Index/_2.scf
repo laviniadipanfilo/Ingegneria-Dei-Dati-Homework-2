@@ -1,0 +1,528 @@
+cfs entry for: _2.fld
+doc 0
+  field 0
+    name filename
+    type string
+    value file5_lucene.txt
+  field 1
+    name content
+    type string
+    value Questo progetto utilizza Apache Lucene per l'indicizzazione del testo.
+doc 1
+  field 0
+    name filename
+    type string
+    value file4_rete.txt
+  field 1
+    name content
+    type string
+    value Il protocollo TCP/IP garantisce la trasmissione dati affidabile su Internet.
+doc 2
+  field 0
+    name filename
+    type string
+    value file1_java.txt
+  field 1
+    name content
+    type string
+    value Il linguaggio Java è un pilastro dello sviluppo software. Usato per applicazioni enterprise
+doc 3
+  field 0
+    name filename
+    type string
+    value file10_report.txt
+  field 1
+    name content
+    type string
+    value Il report finale sul progetto Lucene sarà consegnato il 2025-11-03.
+doc 4
+  field 0
+    name filename
+    type string
+    value file8_analisi.txt
+  field 1
+    name content
+    type string
+    value L'analisi del testo è fondamentale. Gli analyzer Lucene processano i dati grezzi.
+doc 5
+  field 0
+    name filename
+    type string
+    value file3_database.txt
+  field 1
+    name content
+    type string
+    value L'SQL è il linguaggio standard per i database relazionali. Essenziale per la gestione dati.
+doc 6
+  field 0
+    name filename
+    type string
+    value file2_csharp.txt
+  field 1
+    name content
+    type string
+    value C# è un linguaggio Microsoft. Molto diffuso per applicazioni .NET e sviluppo gaming.
+doc 7
+  field 0
+    name filename
+    type string
+    value file9_sistema.txt
+  field 1
+    name content
+    type string
+    value Il kernel del sistema operativo gestisce le risorse. È un concetto base dell'informatica.
+doc 8
+  field 0
+    name filename
+    type string
+    value file6_ricerca.txt
+  field 1
+    name content
+    type string
+    value L'ingegnere Rossi ha condotto una ricerca sulla tokenizzazione e l'analisi del testo.
+doc 9
+  field 0
+    name filename
+    type string
+    value file7_frase.txt
+  field 1
+    name content
+    type string
+    value Questa è la frase esatta che useremo per una phrase query specifica.
+END
+checksum 00000000001260552648
+cfs entry for: _2.inf
+number of fields 2
+  name filename
+  number 0
+  index options DOCS_AND_FREQS_AND_POSITIONS
+  term vectors false
+  payloads false
+  norms true
+  doc values NONE
+  doc values gen -1
+  attributes 0
+  data dimensional count 0
+  index dimensional count 0
+  dimensional num bytes 0
+  vector number of dimensions 0
+  vector encoding FLOAT32
+  vector similarity EUCLIDEAN
+  soft-deletes false
+  parent false
+  name content
+  number 1
+  index options DOCS_AND_FREQS_AND_POSITIONS
+  term vectors false
+  payloads false
+  norms true
+  doc values NONE
+  doc values gen -1
+  attributes 0
+  data dimensional count 0
+  index dimensional count 0
+  dimensional num bytes 0
+  vector number of dimensions 0
+  vector encoding FLOAT32
+  vector similarity EUCLIDEAN
+  soft-deletes false
+  parent false
+checksum 00000000000382539981
+cfs entry for: _2.len
+field filename
+  type NUMERIC
+  minvalue 1
+  pattern 0
+0
+T
+0
+T
+0
+T
+0
+T
+0
+T
+0
+T
+0
+T
+0
+T
+0
+T
+0
+T
+field content
+  type NUMERIC
+  minvalue 6
+  pattern 0
+0
+T
+2
+T
+2
+T
+2
+T
+2
+T
+2
+T
+2
+T
+2
+T
+1
+T
+0
+T
+END
+checksum 00000000001846523025
+cfs entry for: _2.pst
+field content
+  term 03
+    doc 3
+      freq 1
+      pos 11
+  term 11
+    doc 3
+      freq 1
+      pos 10
+  term 2025
+    doc 3
+      freq 1
+      pos 9
+  term affidabil
+    doc 1
+      freq 1
+      pos 8
+  term analis
+    doc 4
+      freq 1
+      pos 0
+    doc 8
+      freq 1
+      pos 9
+  term analyzer
+    doc 4
+      freq 1
+      pos 6
+  term apac
+    doc 0
+      freq 1
+      pos 3
+  term applicazion
+    doc 2
+      freq 1
+      pos 11
+    doc 6
+      freq 1
+      pos 8
+  term base
+    doc 7
+      freq 1
+      pos 11
+  term concett
+    doc 7
+      freq 1
+      pos 10
+  term condott
+    doc 8
+      freq 1
+      pos 3
+  term consegnat
+    doc 3
+      freq 1
+      pos 7
+  term databas
+    doc 5
+      freq 1
+      pos 7
+  term dati
+    doc 1
+      freq 1
+      pos 7
+    doc 4
+      freq 1
+      pos 10
+    doc 5
+      freq 1
+      pos 13
+  term diffus
+    doc 6
+      freq 1
+      pos 6
+  term enterpris
+    doc 2
+      freq 1
+      pos 12
+  term esatt
+    doc 9
+      freq 1
+      pos 4
+  term essenzial
+    doc 5
+      freq 1
+      pos 9
+  term final
+    doc 3
+      freq 1
+      pos 2
+  term fondamental
+    doc 4
+      freq 1
+      pos 4
+  term frase
+    doc 9
+      freq 1
+      pos 3
+  term gaming
+    doc 6
+      freq 1
+      pos 12
+  term garantisc
+    doc 1
+      freq 1
+      pos 4
+  term gestion
+    doc 5
+      freq 1
+      pos 12
+  term gestisc
+    doc 7
+      freq 1
+      pos 5
+  term grezz
+    doc 4
+      freq 1
+      pos 11
+  term indicizzazion
+    doc 0
+      freq 1
+      pos 6
+  term informatic
+    doc 7
+      freq 1
+      pos 12
+  term ingegner
+    doc 8
+      freq 1
+      pos 0
+  term internet
+    doc 1
+      freq 1
+      pos 10
+  term ip
+    doc 1
+      freq 1
+      pos 3
+  term java
+    doc 2
+      freq 1
+      pos 2
+  term kernel
+    doc 7
+      freq 1
+      pos 1
+  term linguagg
+    doc 2
+      freq 1
+      pos 1
+    doc 5
+      freq 1
+      pos 3
+    doc 6
+      freq 1
+      pos 3
+  term lucen
+    doc 0
+      freq 1
+      pos 4
+    doc 3
+      freq 1
+      pos 5
+    doc 4
+      freq 1
+      pos 7
+  term microsoft
+    doc 6
+      freq 1
+      pos 4
+  term molto
+    doc 6
+      freq 1
+      pos 5
+  term net
+    doc 6
+      freq 1
+      pos 9
+  term operativ
+    doc 7
+      freq 1
+      pos 4
+  term phras
+    doc 9
+      freq 1
+      pos 9
+  term pilastr
+    doc 2
+      freq 1
+      pos 5
+  term processan
+    doc 4
+      freq 1
+      pos 8
+  term progett
+    doc 0
+      freq 1
+      pos 1
+    doc 3
+      freq 1
+      pos 4
+  term protocoll
+    doc 1
+      freq 1
+      pos 1
+  term query
+    doc 9
+      freq 1
+      pos 10
+  term relazional
+    doc 5
+      freq 1
+      pos 8
+  term report
+    doc 3
+      freq 1
+      pos 1
+  term ricerc
+    doc 8
+      freq 1
+      pos 5
+  term risors
+    doc 7
+      freq 1
+      pos 7
+  term rossi
+    doc 8
+      freq 1
+      pos 1
+  term sistem
+    doc 7
+      freq 1
+      pos 3
+  term softwar
+    doc 2
+      freq 1
+      pos 8
+  term specific
+    doc 9
+      freq 1
+      pos 11
+  term sql
+    doc 5
+      freq 1
+      pos 0
+  term standard
+    doc 5
+      freq 1
+      pos 4
+  term svilupp
+    doc 2
+      freq 1
+      pos 7
+    doc 6
+      freq 1
+      pos 11
+  term tcp
+    doc 1
+      freq 1
+      pos 2
+  term testo
+    doc 0
+      freq 1
+      pos 8
+    doc 4
+      freq 1
+      pos 2
+    doc 8
+      freq 1
+      pos 11
+  term tokenizzazion
+    doc 8
+      freq 1
+      pos 7
+  term trasmission
+    doc 1
+      freq 1
+      pos 6
+  term usato
+    doc 2
+      freq 1
+      pos 9
+  term userem
+    doc 9
+      freq 1
+      pos 6
+  term utilizz
+    doc 0
+      freq 1
+      pos 2
+field filename
+  term file10_report.txt
+    doc 3
+      freq 1
+      pos 0
+  term file1_java.txt
+    doc 2
+      freq 1
+      pos 0
+  term file2_csharp.txt
+    doc 6
+      freq 1
+      pos 0
+  term file3_database.txt
+    doc 5
+      freq 1
+      pos 0
+  term file4_rete.txt
+    doc 1
+      freq 1
+      pos 0
+  term file5_lucene.txt
+    doc 0
+      freq 1
+      pos 0
+  term file6_ricerca.txt
+    doc 8
+      freq 1
+      pos 0
+  term file7_frase.txt
+    doc 9
+      freq 1
+      pos 0
+  term file8_analisi.txt
+    doc 4
+      freq 1
+      pos 0
+  term file9_sistema.txt
+    doc 7
+      freq 1
+      pos 0
+END
+checksum 00000000003251528155
+table of contents, size: 4
+  filename: _2.fld
+    start: 22
+    end: 2176
+  filename: _2.inf
+    start: 2198
+    end: 3008
+  filename: _2.len
+    start: 3030
+    end: 3253
+  filename: _2.pst
+    start: 3275
+    end: 7496
+table of contents begins at offset: 0000000000000007496

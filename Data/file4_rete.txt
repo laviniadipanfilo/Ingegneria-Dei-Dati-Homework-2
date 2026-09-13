@@ -1,0 +1,1 @@
+Il protocollo TCP/IP garantisce la trasmissione dati affidabile su Internet.

@@ -1,0 +1,1 @@
+L'analisi del testo è fondamentale. Gli analyzer Lucene processano i dati grezzi.

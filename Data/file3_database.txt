@@ -1,0 +1,1 @@
+L'SQL è il linguaggio standard per i database relazionali. Essenziale per la gestione dati.

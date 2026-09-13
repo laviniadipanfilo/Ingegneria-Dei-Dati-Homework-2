@@ -1,0 +1,1 @@
+Il kernel del sistema operativo gestisce le risorse. È un concetto base dell'informatica.
