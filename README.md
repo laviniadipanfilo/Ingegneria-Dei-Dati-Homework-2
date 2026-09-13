@@ -1,21 +1,8 @@
-# Homework
-
-## Struttura del Progetto
-
-```text
-├── Data/              # Documenti di testo (.txt) da indicizzare
-├── Index/             # Indice invertito generato da Lucene
-├── lib/               # Librerie JAR di Apache Lucene
-├── src/
-│   ├── index/         # Indexer.java (costruzione dell'indice)
-│   └── searcher/      # Searcher.java (interrogazione da console)
-├── RELAZIONE.md       # Relazione tecnica completa con le 10 query di test
-└── README.md          # Guida rapida all'avvio
-```
+# Homework 2
 
 ## Prerequisiti
 * Java 21 JDK
-* VS Code con estensione *Extension Pack for Java* (oppure Eclipse / IntelliJ)
+* VS Code con estensione Extension Pack for Java (oppure Eclipse / IntelliJ)
 
 ## Come Eseguire
 
